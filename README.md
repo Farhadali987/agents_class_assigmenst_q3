@@ -1,6 +1,6 @@
 # 🎓 Career Mentor Agent
 
-> An AI-powered multi-agent system that helps you plan your career, improve skills, and discover relevant job opportunities — built with the OpenAI Agents SDK and Streamlit.
+> An AI-powered multi-agent system that helps you plan your career, improve skills, and discover relevant job opportunities — built with the OpenAI Agents SDK.
 
 ---
 
